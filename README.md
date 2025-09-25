@@ -1,1 +1,6 @@
-# SC_302_Documentacion_MN_ManfredJimenez
+# SC\_302\_Documentacion\_MN\_ManfredJimenez
+
+
+
+Esta es mi primera práctica con Gitub
+
